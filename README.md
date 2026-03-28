@@ -1,4 +1,4 @@
-[Python.notebook06.ipynb](https://github.com/user-attachments/files/26321769/Python.notebook06.ipynb)[Python.notebook06.ipynb](https://github.com/user-attachments/files/26321754/Python.notebook06.ipynb)[Python.notebook06.ipynb](https://github.com/user-attachments/files/26321752/Python.notebook06.ipynb)# PythonExample_Repository
+# PythonExample_Repository
 
 ■ 2주차 과제 
 
