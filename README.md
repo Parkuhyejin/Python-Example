@@ -15,3 +15,9 @@
 [Python.notebook06.ipynb](https://github.com/user-attachments/files/26321773/Python.notebook06.ipynb)
 
 [Python.notebook07.ipynb](https://github.com/user-attachments/files/26321753/Python.notebook07.ipynb)
+
+■ 4주차 과제
+
+[python notebook08.ipynb](https://github.com/user-attachments/files/26461227/python.notebook08.ipynb)
+
+[python notebook09.ipynb](https://github.com/user-attachments/files/26461230/python.notebook09.ipynb)
